@@ -1,8 +1,8 @@
 [
     {
-        "title": "Mow the lawn",
+        "title": "Mow the lawn 2",
         "project": "House Chores",
-        "elapsed": 5474870,
+        "elapsed": 5485913,
         "id": "0a4a79cb-b06d-4cb1-883d-549a1e3b66d7",
         "runningSince": null
     },
@@ -21,10 +21,10 @@
         "runningSince": null
     },
     {
-        "title": "Test",
+        "title": "Test22",
         "project": "2",
         "id": "ffe7bb4a-c40c-4810-bfcc-33c3fd5848a0",
-        "elapsed": 10084,
+        "elapsed": 11654,
         "runningSince": null
     }
 ]
